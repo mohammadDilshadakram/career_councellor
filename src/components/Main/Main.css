@@ -348,7 +348,7 @@ border-radius: 50px;
         }
         &:focus ~ .search {
             right: -250px;
-            background: #e8bdbd;
+            background: #fdfbfb;
             z-index: 6;
             &::before {
                 top: 22px; /* Keep the horizontal line in place */
